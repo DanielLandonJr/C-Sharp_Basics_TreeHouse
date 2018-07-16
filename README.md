@@ -1,2 +1,2 @@
-# C-_Basics_TreeHouse
+# C-Sharp_Basics_TreeHouse
 C# Basics TreeHouse Course
